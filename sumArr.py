@@ -1,0 +1,12 @@
+num1 = int(input("1st Number: "))
+num2 = int(input("2nd Number: "))
+num3 = int(input("3rd Number: "))
+num4 = int(input("4th Number: "))
+num5 = int(input("5th Number: "))
+num6 = int(input("6th Number: "))
+num7 = int(input("7th Number: "))
+num8 = int(input("8th Number: "))
+num9 = int(input("9th Number: "))
+num10 = int(input("10th Number: "))
+
+print(num1 + num2 + num3 + num4 + num5 + num6 + num7 + num8 + num9 + num10)
